@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import LoginPage from './components/LoginPage.jsx';
 import './App.css';
-import Footer from './components/Footer.jsx';
  
 function App() {
   return (

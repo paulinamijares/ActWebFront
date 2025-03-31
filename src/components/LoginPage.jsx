@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Paper, TextField, Button, Typography, Switch, FormControlLabel } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
-import Footer from './Footer.jsx';
 
 const LoginPage = () => {
     const [email, setEmail] = useState('');
@@ -26,7 +25,6 @@ const LoginPage = () => {
 
     return (
         <div style={{ display: 'flex',flexDirection: 'column',position: 'fixed',top: 0,left: 0, right: 0, bottom: 0, justifyContent: 'center', alignItems: 'center', height: '100vh', width: '100vw', backgroundColor: '#1976d2'}}>
-            <Footer />
             <div>
             <Typography variant="h4" gutterBottom color='white' fontWeight={'bolder'}> ¡Bienvenido!</Typography>
             </div>
