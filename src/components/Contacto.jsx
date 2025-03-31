@@ -2,7 +2,7 @@ import * as React from 'react';
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import ResponsiveAppBar from './NavBar.jsx';
-import { Typography, Container, Grid, Box, colors } from '@mui/material';
+import { Typography, Container, Grid, Box } from '@mui/material';
 
 
 export default function ContactPage() {
