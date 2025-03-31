@@ -14,10 +14,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^6.0.0",
-    "@mui/material": "^5.4.1", 
-    "@mui/icons-material": "^7.0.0",
-    "@mui/x-charts": "^7.28.0",
-    "@mui/x-data-grid": "^5.17.26"
+    "@mui/material": "^7.0.1", 
+    "@mui/icons-material": "^7.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
