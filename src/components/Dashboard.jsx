@@ -7,7 +7,7 @@ import { DataGrid } from '@mui/x-data-grid';
 import { BarChart } from '@mui/x-charts/BarChart';
 import { Gauge } from '@mui/x-charts/Gauge';
 import ResponsiveAppBar from './NavBar.jsx';
-
+ 
 const columns = [
   { field: 'id', headerName: 'ID', width: 90 },
   { field: 'firstName', headerName: 'First name', width: 150, editable: true },
