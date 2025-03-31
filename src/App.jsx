@@ -5,7 +5,6 @@ import Control from './components/Control.jsx'
 import Header from './components/Header.jsx'
  
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
