@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import Footer from './components/Footer.jsx'
 import Control from './components/Control.jsx'
