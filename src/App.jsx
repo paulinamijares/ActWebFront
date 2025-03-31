@@ -4,6 +4,7 @@ import Dashboard from './components/Dashboard.jsx';
 import StandardImageList from './components/Contacto.jsx';
 import './App.css';
 import Footer from './components/Footer.jsx';
+ 
 function App() {
   return (
     <div className="App">
